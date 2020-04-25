@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: arial Narrow;
+    letter-spacing: 1px;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: normal;
+    letter-spacing: 1px;
+}
+
+h1#nasze_uslugi {
+    padding: 100px 0 100px 0;
+}
+
+h1#awu_nieruchomosci {
+    padding: 50px 0 70px 70px;
+}
+
+h1#kontakt {
+    color: #B38A4C;
+    text-align: center;
+    letter-spacing: 3 px;
+}
+
+h3 {
+    color: #B38A4C;
+    text-align: left;
+    padding: 80px 0 50px 70px;
+    font-size: 23px;
+    font-weight: normal;
+}
+
+
+p1 {
+    color: grey;
+    text-align: left;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 170%;
+}
+
+p2 {
+    color: grey;
+}
+
+
+body {
+    width: 1350px;
+}
+
+header {
+    padding: 0 0 50px 0;
+}
+
+div#kontakt {
+    float: left;
+    width: 675px;
+    height: 166px;
+    padding-left: 0px;
+}
+
+div#head {
+    float: left;
+    width: 675px;
+    padding-right: 0px;
+}
+
+img#facebook {
+    float: right;
+    margin: 60px 10px 0 0;
+}
+
+img#instagram {
+    float: right;
+    margin: 60px 30px 0 0;
+}
+
+button#kontakt {
+    border: none;
+    cursor: pointer;
+    width: 94px;
+    height: 40px;
+    background-color: #B38A4C;
+    color: #fff;
+    margin: 50px 80px 0 0;
+    float: right;
+}
+
+button:hover {
+    background-color: #D0B68F;
+}
+
+div#uslugi {
+    float: left;
+    width: 450px;
+    height: 420px;
+    background-color: #F7F7F7;
+}
+
+div#napis {
+    clear: both;
+    padding-left: 70px;
+}
+
+div#napis_2 {
+    clear: both;
+    text-align: center;
+    color: #B38A4C;
+}
+
+div#napis_3 {
+    width: 1350px;
+    text-align: center;
+    clear: both;
+    color: #B38A4C;
+    padding: 50px 0 100px 0;
+}
+
+div#text {
+    margin: 0 70px;
+}
+
+div#dane {
+    height: 400px;
+    width: 100%;
+    float: left;
+    text-align: center;
+    line-height: 350%;
+    color: grey;
+}
+
+img#facebook_2 {
+    margin-right: 5px;
+}
+
+
+/*
+div#formularz {
+    width: 50%;
+    height: 400px;
+    float: left;
+}
+*/
+
+footer {
+    text-align: center;
+}
