@@ -48,23 +48,24 @@ p2 {
 
 
 body {
-    width: 1350px;
+    width: auto;
+    margin: 0 auto;
 }
 
 header {
-    padding: 0 0 50px 0;
+    padding: 0 0 10rem 0;
 }
 
 div#kontakt {
-    float: left;
-    width: 675px;
+    float: right;
+    width: auto;
     height: 166px;
     padding-left: 0px;
 }
 
 div#head {
     float: left;
-    width: 675px;
+    width: auto;
     padding-right: 0px;
 }
 
@@ -95,7 +96,7 @@ button:hover {
 
 div#uslugi {
     float: left;
-    width: 450px;
+    width: 449px;
     height: 420px;
     background-color: #F7F7F7;
 }
@@ -112,7 +113,6 @@ div#napis_2 {
 }
 
 div#napis_3 {
-    width: 1350px;
     text-align: center;
     clear: both;
     color: #B38A4C;
