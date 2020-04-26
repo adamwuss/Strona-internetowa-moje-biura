@@ -48,24 +48,24 @@ p2 {
 
 
 body {
-    width: auto;
+    width: 1350px;
     margin: 0 auto;
 }
 
 header {
-    padding: 0 0 10rem 0;
+    padding: 0 0 50px 0;
 }
 
 div#kontakt {
-    float: right;
-    width: auto;
+    float: left;
+    width: 675px;
     height: 166px;
     padding-left: 0px;
 }
 
 div#head {
     float: left;
-    width: auto;
+    width: 675px;
     padding-right: 0px;
 }
 
@@ -90,13 +90,13 @@ button#kontakt {
     float: right;
 }
 
-button:hover {
+button#kontakt:hover {
     background-color: #D0B68F;
 }
 
 div#uslugi {
     float: left;
-    width: 449px;
+    width: 450px;
     height: 420px;
     background-color: #F7F7F7;
 }
@@ -113,6 +113,7 @@ div#napis_2 {
 }
 
 div#napis_3 {
+    width: 1350px;
     text-align: center;
     clear: both;
     color: #B38A4C;
